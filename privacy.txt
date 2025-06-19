@@ -1,0 +1,68 @@
+Privacy Policy for Memes Escape Online
+
+Last Updated: June 19, 2025
+
+Introduction:
+
+Welcome to Memes Escape Online. This Privacy Policy explains how we collect, use, and protect user data. The game is developed using the Unity engine and incorporates Photon PUN (Photon Unity Networking) for multiplayer functionality and Appodeal SDK for advertisements. By using Memes Escape Online, you agree to the practices described in this policy.
+
+1. Information Collection:
+
+We collect only the necessary data to provide our services and improve the gaming experience:
+- User Nickname: Visible to other players during gameplay.
+- Chat Messages: Transmitted to other players but not stored on servers.
+- Player Actions: Movements and interactions are sent to the server for real-time synchronization.
+- Device Advertising Identifier: Used by Appodeal SDK to deliver personalized ads.
+- Device Information and Events: Collected via Appodeal SDK, including device model, operating system version, app version, in-app events (e.g., skin purchases). No geolocation data is collected. IP addresses of users in the European Union are anonymized.
+
+Additional Details:
+- Photon Servers: Gameplay-related data is temporarily stored in RAM and deleted when a player leaves the server.
+- Appodeal SDK: Collects data for personalized ads. See their privacy policy at https://appodeal.com/privacy-policy.
+- Unity Engine: Collects technical data like crash logs to improve game performance. See Unity's privacy policy at https://unity3d.com/en/legal/privacy-policy.
+
+2. Data Use:
+
+The collected data is used exclusively for:
+- Displaying user nicknames during gameplay.
+- Synchronizing player actions in real time.
+- Sending chat messages between players.
+- Serving personalized advertisements through Appodeal SDK.
+
+No data is used for unauthorized purposes or shared with third parties beyond those outlined below.
+
+3. Data Sharing:
+
+We share data with the following third-party providers:
+- Photon PUN (Photon Unity Networking): Handles real-time transmission of gameplay data. See their privacy policy at https://dashboard.photonengine.com/account/privacyandcookiepolicy.
+- Unity Technologies: Collects technical information as part of the game engine's functionality. See their privacy policy at https://unity.com/en/legal/privacy-policy.
+- Appodeal SDK: Processes advertising identifiers and related data for personalized ads. See their privacy policy at https://appodeal.com/privacy-policy.
+
+4. Data Protection:
+
+We implement the following measures to protect user data:
+- Gameplay-related data is stored temporarily in RAM on Photon servers and deleted when a player exits the game server.
+- Industry-standard security measures are applied by Appodeal to protect collected data.
+
+5. Moderation and Reporting:
+
+At present, there are no moderation tools or reporting systems available. Future updates may include such features, which will be reflected in an updated version of this Privacy Policy.
+
+6. User Rights:
+
+Users retain control over their nicknames and chat messages shared during gameplay. However:
+- Users can opt out of personalized ads by resetting or disabling their advertising identifiers (GAID or IDFA) in their device settings.
+
+7. Age Restrictions:
+
+Memes Escape Online is not intended for users under 13 years old. By using the game, you confirm that you are at least 13 years old. If you are between 13 and 18 years old, you confirm that you have obtained permission from a parent or guardian to play the game and consent to its privacy practices.
+
+8. Changes to Privacy Policy:
+
+We reserve the right to update this Privacy Policy at any time. Changes will take effect immediately upon publication of the updated policy. We recommend reviewing this policy periodically to stay informed about our data practices.
+
+9. Contact:
+
+For questions or concerns about this Privacy Policy, please contact us at:
+Email: kuzherendev@gmail.com
+
+By playing Memes Escape Online, you agree to this Privacy Policy. If you do not agree, please refrain from using our services.
